@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<title_list>
+ <title titleId="000500001014b700" version="0" sdk_version="20806" group_id="0000101d" app_type="80000000">
+  <region>2</region>
+  <name>New SUPER MARIO BROS. U +  New SUPER LUIGI U</name>
+  <format>2</format>
+  <path>/home/EhwazM/Downloads/ROM's/Wii U/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).wux</path>
+ </title>
+ <title titleId="0005000010176900" version="16" sdk_version="21212" group_id="00001769" app_type="80000000">
+  <region>2</region>
+  <name>Splatoon</name>
+  <format>2</format>
+  <path>/home/EhwazM/Downloads/ROM's/Wii U/Splatoon (USA) (En,Fr,Es).wux</path>
+ </title>
+ <title titleId="000500001012bd00" version="16" sdk_version="20911" group_id="000012bd" app_type="80000000">
+  <region>2</region>
+  <name>PIKMIN 3</name>
+  <format>2</format>
+  <path>/home/EhwazM/Downloads/ROM's/Wii U/Pikmin 3 (USA) (En,Fr,Es) (Rev 1).wux</path>
+ </title>
+</title_list>

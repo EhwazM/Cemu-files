@@ -1,0 +1,87 @@
+[17:45:59.974] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
+[17:45:59.974] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
+[17:46:00.191] ------- Init Cemu 2.4 -------
+[17:46:00.191] Init Wii U memory space (base: 0x000071e80c000000)
+[17:46:00.192] mlc01 path: /home/EhwazM/.local/share/Cemu/mlc01
+[17:46:00.192] CPU: AMD Ryzen 5 4500U with Radeon Graphics         
+[17:46:00.192] RAM: 15346MB
+[17:46:00.192] Platform: Linux
+[17:46:00.192] Used CPU extensions: SSSE3, SSE4.1, AVX, AVX2, LZCNT, MOVBE, BMI2, AES-NI, INVARIANT-TSC
+[17:46:05.498] Mounting title 0005000010176900
+[17:46:05.498] Base: /home/EhwazM/Downloads/ROM's/Wii U/Splatoon (USA) (En,Fr,Es).wux [WUD]
+[17:46:05.499] Update: Not present
+[17:46:05.499] DLC: Not present
+[17:46:05.515] COS: System fonts found. Generated shareddata (26609KB)
+[17:46:05.526] Recompiler initialized
+[17:46:05.722] ------- Init Vulkan graphics backend -------
+[17:46:05.738] Vulkan instance version: 1.4
+[17:46:05.743] Using GPU: AMD Radeon Graphics (RADV RENOIR)
+[17:46:05.743] Driver version: Mesa 24.3.4-arch1.1
+[17:46:05.743] Vulkan: present_wait extension: supported
+[17:46:05.743] VulkanLimits: UBAlignment 4 nonCoherentAtomSize 64
+[17:46:05.750] Using available debug function: vkCreateDebugUtilsMessengerEXT()
+[17:46:05.750] Vulkan device memory info:
+[17:46:05.750] Heap 0 - Size 2728MB Flags 0x00000000
+[17:46:05.750] Heap 1 - Size 5456MB Flags 0x00000001
+[17:46:05.750] Memory 0 - HeapIndex 1 Flags 0x00000001
+[17:46:05.750] Memory 1 - HeapIndex 1 Flags 0x00000001
+[17:46:05.750] Memory 2 - HeapIndex 0 Flags 0x00000006
+[17:46:05.750] Memory 3 - HeapIndex 1 Flags 0x00000007
+[17:46:05.750] Memory 4 - HeapIndex 1 Flags 0x00000007
+[17:46:05.750] Memory 5 - HeapIndex 0 Flags 0x0000000e
+[17:46:05.750] Memory 6 - HeapIndex 0 Flags 0x0000000e
+[17:46:05.750] Memory 7 - HeapIndex 1 Flags 0x000000c1
+[17:46:05.750] Memory 8 - HeapIndex 0 Flags 0x000000c6
+[17:46:05.750] Memory 9 - HeapIndex 1 Flags 0x000000c7
+[17:46:05.750] Memory 10 - HeapIndex 0 Flags 0x000000ce
+[17:46:05.750] VK_FORMAT_D24_UNORM_S8_UINT not supported
+[17:46:05.750] VK_FORMAT_R4G4_UNORM_PACK8 not supported
+[17:46:05.786] ------- Loaded title -------
+[17:46:05.786] TitleId: 00050000-10176900
+[17:46:05.786] TitleVersion: v16
+[17:46:05.786] TitleRegion: US
+[17:46:05.786] Save path:   /home/EhwazM/.local/share/Cemu/mlc01/usr/save/00050000/10176900/user/
+[17:46:05.786] Shader cache file: shaderCache/transferable/0005000010176900.bin
+[17:46:05.786] gameprofile path: gameProfiles/default/0005000010176900.ini
+[17:46:05.786] RPX hash (updated): 8d354cea
+[17:46:05.786] RPX hash (base): 8d354cea
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 320f:50b7
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 0bda:8153
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 35d6:3510
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 0bda:b00a
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 30c9:0013
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 1532:0099
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 046d:0acb
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 054c:09cc
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 35d6:2510
+[17:46:05.793] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[17:46:05.837] Loaded module 'gambit' with checksum 0x08ed6677
+[17:46:05.837] RPL link time: 45ms
+[17:46:05.869] HLE scan time: 32ms
+[17:46:05.869] ------- Active settings -------
+[17:46:05.869] CPU-Mode: Multi-core recompiler
+[17:46:05.869] Load shared libraries: true
+[17:46:05.869] Use precompiled shaders: auto
+[17:46:05.869] Full sync at GX2DrawDone: true
+[17:46:05.869] Strict shader mul: true
+[17:46:05.869] Async compile: true
+[17:46:05.869] Console language: 1
+[17:46:06.122] ------- Activate graphic packs -------
+[17:46:06.130] Applying patch group 'SplatoonV0uw'
+[17:46:06.130] Activate graphic pack: Splatoon/Graphics [Presets: 16:9 (Default),1920x1080 (Full HD),854x480 (Default),Medium (100%, Default),0%,1x (Default)]
+[17:46:06.130] Activate graphic pack: Splatoon/Mods/60FPS In Plaza
+[17:46:06.131] Activate graphic pack: Splatoon/Workarounds/Multiplayer network port [Presets: UDP 58000]
+[17:46:06.131] ------- Init Audio backend -------
+[17:46:06.131] DirectSound: not supported
+[17:46:06.131] XAudio 2.8: not supported
+[17:46:06.131] XAudio 2.7: not supported
+[17:46:06.131] Cubeb: available
+[17:46:06.131] ------- Init Audio input backend -------
+[17:46:06.131] Cubeb: available
+[17:46:06.131] ------- Run title -------
+[17:46:06.135] Graphic pack "Graphic Options" prevents rendertarget size optimization. This warning can be ignored and is intended for graphic pack developers
+[17:46:07.964] IOSU_ACT: using account Mii in first slot
+[17:46:09.869] Game attempting to re-initialize existing thread
