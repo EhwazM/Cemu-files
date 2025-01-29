@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <title_list>
+ <title titleId="0005000010145c00" version="1" sdk_version="20922" group_id="0000101d" app_type="80000000">
+  <region>2</region>
+  <name>SUPER MARIO 3D WORLD</name>
+  <format>2</format>
+  <path>/home/EhwazM/Downloads/ROM's/Wii U/Super Mario 3D World (USA) (En,Fr,Es) (Rev 2).wux</path>
+ </title>
  <title titleId="000500001014b700" version="0" sdk_version="20806" group_id="0000101d" app_type="80000000">
   <region>2</region>
   <name>New SUPER MARIO BROS. U +  New SUPER LUIGI U</name>
@@ -17,5 +23,11 @@
   <name>PIKMIN 3</name>
   <format>2</format>
   <path>/home/EhwazM/Downloads/ROM's/Wii U/Pikmin 3 (USA) (En,Fr,Es) (Rev 1).wux</path>
+ </title>
+ <title titleId="000500001010ec00" version="1" sdk_version="21011" group_id="0000101d" app_type="80000000">
+  <region>2</region>
+  <name>MARIO KART 8</name>
+  <format>2</format>
+  <path>/home/EhwazM/Downloads/ROM's/Wii U/Mario Kart 8 (USA) (En,Fr,Es) (Rev 5).wux</path>
  </title>
 </title_list>
