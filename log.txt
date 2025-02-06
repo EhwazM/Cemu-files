@@ -1,85 +1,85 @@
-[14:27:31.360] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
-[14:27:31.361] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
-[14:27:31.494] ------- Init Cemu 2.4 -------
-[14:27:31.494] Init Wii U memory space (base: 0x00007fb270000000)
-[14:27:31.494] mlc01 path: /home/EhwazM/.local/share/Cemu/mlc01
-[14:27:31.494] CPU: AMD Ryzen 5 4500U with Radeon Graphics         
-[14:27:31.494] RAM: 15346MB
-[14:27:31.494] Platform: Linux
-[14:27:31.494] Used CPU extensions: SSSE3, SSE4.1, AVX, AVX2, LZCNT, MOVBE, BMI2, AES-NI, INVARIANT-TSC
-[14:41:57.804] Mounting title 000500001014b700
-[14:41:57.804] Base: /home/EhwazM/Downloads/ROM's/Wii U/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).wux [WUD]
-[14:41:57.805] Update: Not present
-[14:41:57.805] DLC: Not present
-[14:41:57.855] COS: System fonts found. Generated shareddata (26609KB)
-[14:41:57.861] Recompiler initialized
-[14:41:58.053] ------- Init Vulkan graphics backend -------
-[14:41:58.079] Vulkan instance version: 1.4
-[14:41:58.090] Using GPU: AMD Radeon Graphics (RADV RENOIR)
-[14:41:58.090] Driver version: Mesa 24.3.4-arch1.1
-[14:41:58.090] Vulkan: present_wait extension: supported
-[14:41:58.090] VulkanLimits: UBAlignment 4 nonCoherentAtomSize 64
-[14:41:58.101] Using available debug function: vkCreateDebugUtilsMessengerEXT()
-[14:41:58.101] Vulkan device memory info:
-[14:41:58.101] Heap 0 - Size 2728MB Flags 0x00000000
-[14:41:58.101] Heap 1 - Size 5456MB Flags 0x00000001
-[14:41:58.101] Memory 0 - HeapIndex 1 Flags 0x00000001
-[14:41:58.101] Memory 1 - HeapIndex 1 Flags 0x00000001
-[14:41:58.101] Memory 2 - HeapIndex 0 Flags 0x00000006
-[14:41:58.101] Memory 3 - HeapIndex 1 Flags 0x00000007
-[14:41:58.101] Memory 4 - HeapIndex 1 Flags 0x00000007
-[14:41:58.101] Memory 5 - HeapIndex 0 Flags 0x0000000e
-[14:41:58.101] Memory 6 - HeapIndex 0 Flags 0x0000000e
-[14:41:58.101] Memory 7 - HeapIndex 1 Flags 0x000000c1
-[14:41:58.101] Memory 8 - HeapIndex 0 Flags 0x000000c6
-[14:41:58.101] Memory 9 - HeapIndex 1 Flags 0x000000c7
-[14:41:58.101] Memory 10 - HeapIndex 0 Flags 0x000000ce
-[14:41:58.101] VK_FORMAT_D24_UNORM_S8_UINT not supported
-[14:41:58.101] VK_FORMAT_R4G4_UNORM_PACK8 not supported
-[14:41:58.154] ------- Loaded title -------
-[14:41:58.155] TitleId: 00050000-1014b700
-[14:41:58.155] TitleVersion: v0
-[14:41:58.155] TitleRegion: US
-[14:41:58.155] Save path:   /home/EhwazM/.local/share/Cemu/mlc01/usr/save/00050000/1014B700/user/ (not present)
-[14:41:58.155] Shader cache file: shaderCache/transferable/000500001014b700.bin
-[14:41:58.155] gameprofile path:  (not present)
-[14:41:58.155] RPX hash (updated): 79e979df
-[14:41:58.155] RPX hash (base): 79e979df
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 320f:50b7
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 0bda:8153
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 35d6:3510
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 0bda:b00a
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 30c9:0013
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 1532:0099
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 046d:0acb
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 054c:09cc
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 35d6:2510
-[14:41:58.163] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
-[14:41:58.219] Loaded module 'red-pro2' with checksum 0x1049ced8
-[14:41:58.219] RPL link time: 56ms
-[14:41:58.246] HLE scan time: 27ms
-[14:41:58.246] ------- Active settings -------
-[14:41:58.246] CPU-Mode: Multi-core recompiler
-[14:41:58.246] Load shared libraries: true
-[14:41:58.246] Use precompiled shaders: auto
-[14:41:58.246] Full sync at GX2DrawDone: true
-[14:41:58.246] Strict shader mul: true
-[14:41:58.246] Async compile: true
-[14:41:58.246] Console language: 1
-[14:41:58.489] ------- Activate graphic packs -------
-[14:41:58.492] Activate graphic pack: New Super Mario Bros. U/Graphics [Presets: 1920x1080,854x480,Low,Medium]
-[14:41:58.492] Applying patch group 'NSMBU+LU_CrashFix_V0'
-[14:41:58.492] Activate graphic pack: New Super Mario Bros. U/Workarounds/Title Screen Crash Fix
-[14:41:58.492] ------- Init Audio backend -------
-[14:41:58.492] DirectSound: not supported
-[14:41:58.492] XAudio 2.8: not supported
-[14:41:58.492] XAudio 2.7: not supported
-[14:41:58.492] Cubeb: available
-[14:41:58.492] ------- Init Audio input backend -------
-[14:41:58.492] Cubeb: available
-[14:41:58.492] ------- Run title -------
-[14:41:58.497] Graphic pack "Graphic Options" prevents rendertarget size optimization. This warning can be ignored and is intended for graphic pack developers
-[14:41:59.418] IOSU_ACT: using account Mii in first slot
+[20:52:45.177] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
+[20:52:45.177] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
+[20:52:45.352] ------- Init Cemu 2.4 -------
+[20:52:45.352] Init Wii U memory space (base: 0x0000715e70000000)
+[20:52:45.352] mlc01 path: /home/EhwazM/.local/share/Cemu/mlc01
+[20:52:45.352] CPU: AMD Ryzen 5 4500U with Radeon Graphics         
+[20:52:45.352] RAM: 15346MB
+[20:52:45.352] Platform: Linux
+[20:52:45.352] Used CPU extensions: SSSE3, SSE4.1, AVX, AVX2, LZCNT, MOVBE, BMI2, AES-NI, INVARIANT-TSC
+[20:53:35.000] Mounting title 000500001014b700
+[20:53:35.000] Base: /home/EhwazM/Downloads/ROM's/Wii U/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).wux [WUD]
+[20:53:35.001] Update: Not present
+[20:53:35.001] DLC: Not present
+[20:53:35.009] COS: System fonts found. Generated shareddata (26609KB)
+[20:53:35.017] Recompiler initialized
+[20:53:35.222] ------- Init Vulkan graphics backend -------
+[20:53:35.241] Vulkan instance version: 1.4
+[20:53:35.245] Using GPU: AMD Radeon Graphics (RADV RENOIR)
+[20:53:35.245] Driver version: Mesa 24.3.4-arch1.1
+[20:53:35.245] Vulkan: present_wait extension: supported
+[20:53:35.245] VulkanLimits: UBAlignment 4 nonCoherentAtomSize 64
+[20:53:35.253] Using available debug function: vkCreateDebugUtilsMessengerEXT()
+[20:53:35.253] Vulkan device memory info:
+[20:53:35.253] Heap 0 - Size 2728MB Flags 0x00000000
+[20:53:35.253] Heap 1 - Size 5456MB Flags 0x00000001
+[20:53:35.253] Memory 0 - HeapIndex 1 Flags 0x00000001
+[20:53:35.253] Memory 1 - HeapIndex 1 Flags 0x00000001
+[20:53:35.253] Memory 2 - HeapIndex 0 Flags 0x00000006
+[20:53:35.253] Memory 3 - HeapIndex 1 Flags 0x00000007
+[20:53:35.253] Memory 4 - HeapIndex 1 Flags 0x00000007
+[20:53:35.253] Memory 5 - HeapIndex 0 Flags 0x0000000e
+[20:53:35.253] Memory 6 - HeapIndex 0 Flags 0x0000000e
+[20:53:35.253] Memory 7 - HeapIndex 1 Flags 0x000000c1
+[20:53:35.253] Memory 8 - HeapIndex 0 Flags 0x000000c6
+[20:53:35.253] Memory 9 - HeapIndex 1 Flags 0x000000c7
+[20:53:35.253] Memory 10 - HeapIndex 0 Flags 0x000000ce
+[20:53:35.253] VK_FORMAT_D24_UNORM_S8_UINT not supported
+[20:53:35.253] VK_FORMAT_R4G4_UNORM_PACK8 not supported
+[20:53:35.304] ------- Loaded title -------
+[20:53:35.304] TitleId: 00050000-1014b700
+[20:53:35.304] TitleVersion: v0
+[20:53:35.304] TitleRegion: US
+[20:53:35.304] Save path:   /home/EhwazM/.local/share/Cemu/mlc01/usr/save/00050000/1014B700/user/ (not present)
+[20:53:35.304] Shader cache file: shaderCache/transferable/000500001014b700.bin
+[20:53:35.304] gameprofile path:  (not present)
+[20:53:35.304] RPX hash (updated): 79e979df
+[20:53:35.304] RPX hash (base): 79e979df
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 320f:50b7
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 0bda:8153
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 35d6:3510
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 0bda:b00a
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 30c9:0013
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 1532:0099
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 046d:0acb
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 054c:09cc
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 35d6:2510
+[20:53:35.310] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[20:53:35.367] Loaded module 'red-pro2' with checksum 0x1049ced8
+[20:53:35.367] RPL link time: 58ms
+[20:53:35.395] HLE scan time: 27ms
+[20:53:35.395] ------- Active settings -------
+[20:53:35.395] CPU-Mode: Multi-core recompiler
+[20:53:35.395] Load shared libraries: true
+[20:53:35.395] Use precompiled shaders: auto
+[20:53:35.395] Full sync at GX2DrawDone: true
+[20:53:35.395] Strict shader mul: true
+[20:53:35.395] Async compile: true
+[20:53:35.395] Console language: 1
+[20:53:35.600] ------- Activate graphic packs -------
+[20:53:35.601] Activate graphic pack: New Super Mario Bros. U/Graphics [Presets: 1920x1080,854x480,Low,Medium]
+[20:53:35.601] Applying patch group 'NSMBU+LU_CrashFix_V0'
+[20:53:35.601] Activate graphic pack: New Super Mario Bros. U/Workarounds/Title Screen Crash Fix
+[20:53:35.601] ------- Init Audio backend -------
+[20:53:35.601] DirectSound: not supported
+[20:53:35.601] XAudio 2.8: not supported
+[20:53:35.601] XAudio 2.7: not supported
+[20:53:35.601] Cubeb: available
+[20:53:35.601] ------- Init Audio input backend -------
+[20:53:35.601] Cubeb: available
+[20:53:35.601] ------- Run title -------
+[20:53:35.606] Graphic pack "Graphic Options" prevents rendertarget size optimization. This warning can be ignored and is intended for graphic pack developers
+[20:53:36.379] IOSU_ACT: using account Mii in first slot
