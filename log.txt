@@ -1,84 +1,214 @@
-[10:55:40.581] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
-[10:55:40.581] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
-[10:55:40.743] ------- Init Cemu 2.6 -------
-[10:55:40.743] Init Wii U memory space (base: 0x0000736bb0000000)
-[10:55:40.743] mlc01 path: /home/EhwazM/.local/share/Cemu/mlc01
-[10:55:40.743] CPU: AMD Ryzen 5 4500U with Radeon Graphics         
-[10:55:40.743] RAM: 15346MB
-[10:55:40.743] Platform: Linux
-[10:55:40.743] Used CPU extensions: SSSE3, SSE4.1, AVX, AVX2, LZCNT, MOVBE, BMI2, AES-NI, INVARIANT-TSC
-[10:55:44.683] Mounting title 000500001010ec00
-[10:55:44.683] Base: /home/EhwazM/Downloads/ROM's/Wii U/Mario Kart 8 (USA) (En,Fr,Es) (Rev 5).wux [WUD]
-[10:55:44.684] Update: Not present
-[10:55:44.684] DLC: Not present
-[10:55:44.691] COS: System fonts found. Generated shareddata (26609KB)
-[10:55:44.697] Recompiler initialized
-[10:55:44.848] ------- Init Vulkan graphics backend -------
-[10:55:44.862] Vulkan instance version: 1.4
-[10:55:44.867] Using GPU: AMD Radeon Graphics (RADV RENOIR)
-[10:55:44.867] Driver version: Mesa 24.3.4-arch1.1
-[10:55:44.867] Vulkan: present_wait extension: supported
-[10:55:44.867] VulkanLimits: UBAlignment 4 nonCoherentAtomSize 64
-[10:55:44.874] Using available debug function: vkCreateDebugUtilsMessengerEXT()
-[10:55:44.874] Vulkan device memory info:
-[10:55:44.874] Heap 0 - Size 2728MB Flags 0x00000000
-[10:55:44.874] Heap 1 - Size 5456MB Flags 0x00000001
-[10:55:44.874] Memory 0 - HeapIndex 1 Flags 0x00000001
-[10:55:44.874] Memory 1 - HeapIndex 1 Flags 0x00000001
-[10:55:44.874] Memory 2 - HeapIndex 0 Flags 0x00000006
-[10:55:44.874] Memory 3 - HeapIndex 1 Flags 0x00000007
-[10:55:44.874] Memory 4 - HeapIndex 1 Flags 0x00000007
-[10:55:44.874] Memory 5 - HeapIndex 0 Flags 0x0000000e
-[10:55:44.874] Memory 6 - HeapIndex 0 Flags 0x0000000e
-[10:55:44.874] Memory 7 - HeapIndex 1 Flags 0x000000c1
-[10:55:44.874] Memory 8 - HeapIndex 0 Flags 0x000000c6
-[10:55:44.874] Memory 9 - HeapIndex 1 Flags 0x000000c7
-[10:55:44.874] Memory 10 - HeapIndex 0 Flags 0x000000ce
-[10:55:44.874] VK_FORMAT_D24_UNORM_S8_UINT not supported
-[10:55:44.874] VK_FORMAT_R4G4_UNORM_PACK8 not supported
-[10:55:44.908] ------- Loaded title -------
-[10:55:44.908] TitleId: 00050000-1010ec00
-[10:55:44.908] TitleVersion: v1
-[10:55:44.908] TitleRegion: US
-[10:55:44.908] Save path:   /home/EhwazM/.local/share/Cemu/mlc01/usr/save/00050000/1010EC00/user/ (not present)
-[10:55:44.908] Shader cache file: shaderCache/transferable/000500001010ec00.bin
-[10:55:44.908] gameprofile path: gameProfiles/default/000500001010ec00.ini
-[10:55:44.908] RPX hash (updated): 9708a1d3
-[10:55:44.908] RPX hash (base): 9708a1d3
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 320f:50b7
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 0bda:8153
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 35d6:3510
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 0bda:b00a
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 30c9:0013
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 1532:0099
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 054c:09cc
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 046d:0acb
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 35d6:2510
-[10:55:44.915] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
-[10:55:44.963] Loaded module 'turbo' with checksum 0x2a2dc82c
-[10:55:44.965] Loaded module 'mvplayer' with checksum 0x35ced641
-[10:55:44.965] RPL link time: 50ms
-[10:55:45.000] HLE scan time: 35ms
-[10:55:45.000] ------- Active settings -------
-[10:55:45.000] CPU-Mode: 3
-[10:55:45.000] Load shared libraries: true
-[10:55:45.000] Use precompiled shaders: 0
-[10:55:45.000] Full sync at GX2DrawDone: true
-[10:55:45.000] Strict shader mul: true
-[10:55:45.000] Async compile: true
-[10:55:45.000] Console language: 1
-[10:55:45.154] ------- Activate graphic packs -------
-[10:55:45.154] ------- Init Audio backend -------
-[10:55:45.154] DirectSound: not supported
-[10:55:45.154] XAudio 2.8: not supported
-[10:55:45.154] XAudio 2.7: not supported
-[10:55:45.154] Cubeb: available
-[10:55:45.154] ------- Init Audio input backend -------
-[10:55:45.154] Cubeb: available
-[10:55:45.154] ------- Run title -------
-[10:55:45.243] IOSU_ACT: using account Mii in first slot
-[10:55:45.253] Loaded module 'mw_igr' with checksum 0x75ee1bff
-[10:55:45.254] Loaded module 'mw_igr_sbc' with checksum 0x58ff43bc
+[14:46:28.083] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
+[14:46:28.084] error when trying to check visiblity of preset: unknown constant found "$custom" in expression: $custom == 1
+[14:46:28.147] ------- Init Cemu 2.6 -------
+[14:46:28.147] Init Wii U memory space (base: 0x000076db50000000)
+[14:46:28.147] mlc01 path: /home/EhwazM/.local/share/Cemu/mlc01
+[14:46:28.147] CPU: AMD Ryzen 5 4500U with Radeon Graphics         
+[14:46:28.147] RAM: 15346MB
+[14:46:28.147] Platform: Linux
+[14:46:28.147] Used CPU extensions: SSSE3, SSE4.1, AVX, AVX2, LZCNT, MOVBE, BMI2, AES-NI, INVARIANT-TSC
+[14:46:39.571] Mounting title 0005000010145c00
+[14:46:39.571] Base: /home/EhwazM/Downloads/ROM's/Wii U/Super Mario 3D World (USA) (En,Fr,Es) (Rev 2).wux [WUD]
+[14:46:39.572] Update: Not present
+[14:46:39.572] DLC: Not present
+[14:46:39.578] COS: System fonts found. Generated shareddata (26609KB)
+[14:46:39.585] Recompiler initialized
+[14:46:39.796] ------- Init Vulkan graphics backend -------
+[14:46:39.816] Vulkan instance version: 1.4
+[14:46:39.823] Using GPU: AMD Radeon Graphics (RADV RENOIR)
+[14:46:39.823] Driver version: Mesa 24.3.4-arch1.1
+[14:46:39.823] Vulkan: present_wait extension: supported
+[14:46:39.823] VulkanLimits: UBAlignment 4 nonCoherentAtomSize 64
+[14:46:39.834] Using available debug function: vkCreateDebugUtilsMessengerEXT()
+[14:46:39.834] Vulkan device memory info:
+[14:46:39.834] Heap 0 - Size 2728MB Flags 0x00000000
+[14:46:39.834] Heap 1 - Size 5456MB Flags 0x00000001
+[14:46:39.834] Memory 0 - HeapIndex 1 Flags 0x00000001
+[14:46:39.834] Memory 1 - HeapIndex 1 Flags 0x00000001
+[14:46:39.834] Memory 2 - HeapIndex 0 Flags 0x00000006
+[14:46:39.834] Memory 3 - HeapIndex 1 Flags 0x00000007
+[14:46:39.834] Memory 4 - HeapIndex 1 Flags 0x00000007
+[14:46:39.834] Memory 5 - HeapIndex 0 Flags 0x0000000e
+[14:46:39.834] Memory 6 - HeapIndex 0 Flags 0x0000000e
+[14:46:39.834] Memory 7 - HeapIndex 1 Flags 0x000000c1
+[14:46:39.834] Memory 8 - HeapIndex 0 Flags 0x000000c6
+[14:46:39.834] Memory 9 - HeapIndex 1 Flags 0x000000c7
+[14:46:39.834] Memory 10 - HeapIndex 0 Flags 0x000000ce
+[14:46:39.834] VK_FORMAT_D24_UNORM_S8_UINT not supported
+[14:46:39.834] VK_FORMAT_R4G4_UNORM_PACK8 not supported
+[14:46:39.870] ------- Loaded title -------
+[14:46:39.870] TitleId: 00050000-10145c00
+[14:46:39.870] TitleVersion: v1
+[14:46:39.870] TitleRegion: US
+[14:46:39.870] Save path:   /home/EhwazM/.local/share/Cemu/mlc01/usr/save/00050000/10145C00/user/ (not present)
+[14:46:39.870] Shader cache file: shaderCache/transferable/0005000010145c00.bin
+[14:46:39.870] gameprofile path: gameProfiles/default/0005000010145c00.ini
+[14:46:39.870] RPX hash (updated): ba3b92b5
+[14:46:39.870] RPX hash (base): ba3b92b5
+[14:46:39.880] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[14:46:39.880] nsyshid::BackendLibusb: device not on whitelist: 054c:09cc
+[14:46:39.880] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[14:46:39.881] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[14:46:39.881] nsyshid::BackendLibusb: device not on whitelist: 0bda:b00a
+[14:46:39.881] nsyshid::BackendLibusb: device not on whitelist: 30c9:0013
+[14:46:39.881] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[14:46:39.927] Loaded module 'redcarpet' with checksum 0xbbaf1908
+[14:46:39.927] RPL link time: 46ms
+[14:46:39.952] Patching SM3DW dynamic resolution scaling at: 0x024906f4
+[14:46:39.959] HLE scan time: 32ms
+[14:46:39.959] ------- Active settings -------
+[14:46:39.959] CPU-Mode: 3
+[14:46:39.959] Load shared libraries: true
+[14:46:39.959] Use precompiled shaders: 0 (gameprofile)
+[14:46:39.959] Full sync at GX2DrawDone: true
+[14:46:39.959] Strict shader mul: true
+[14:46:39.959] Async compile: true
+[14:46:39.959] Console language: 1
+[14:46:40.198] ------- Activate graphic packs -------
+[14:46:40.199] Activate graphic pack: Super Mario 3D World/Enhancements/Texture LOD [Presets: Default LOD]
+[14:46:40.222] Applying patch group 'RedCarpetAspectUW'
+[14:46:40.222] Activate graphic pack: Super Mario 3D World/Graphics/Resolution [Presets: 1920x1080]
+[14:46:40.223] Activate graphic pack: Super Mario 3D World/Graphics/Shadow Resolution [Presets: Low (50%)]
+[14:46:40.223] ------- Init Audio backend -------
+[14:46:40.223] DirectSound: not supported
+[14:46:40.223] XAudio 2.8: not supported
+[14:46:40.223] XAudio 2.7: not supported
+[14:46:40.223] Cubeb: available
+[14:46:40.223] ------- Init Audio input backend -------
+[14:46:40.223] Cubeb: available
+[14:46:40.223] ------- Run title -------
+[14:46:40.227] Graphic pack "Resolution" prevents rendertarget size optimization. This warning can be ignored and is intended for graphic pack developers
+[14:46:40.227] Graphic pack "Shadow Resolution" prevents rendertarget size optimization. This warning can be ignored and is intended for graphic pack developers
+[14:46:41.332] IOSU_ACT: using account Mii in first slot
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.670] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.687] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.703] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.720] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.736] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.753] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
+[14:47:02.770] GX2CalcSurfaceSizeAndAlignment(): Uninitialized surface encountered
+
